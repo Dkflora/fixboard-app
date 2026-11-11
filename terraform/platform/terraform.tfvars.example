@@ -9,8 +9,8 @@ cluster_name = "ridgeline-fixboard"
 
 # CHANGE: a domain that already has a public hosted zone in Route 53,
 # and the primary domain name of its issued ACM certificate in this region.
-domain_name        = "example.com"
-certificate_domain = "*.example.com"
+domain_name        = "nikupe.com"
+certificate_domain = "*.nikupe.com"
 
 # Phase 2: CI/CD and GitOps
 enable_gitops     = false
